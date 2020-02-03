@@ -14,3 +14,8 @@ body {
     font-family: sans-serif;
     color: white;
 }
+button {
+    height: 5vh;
+    display: flexbox;
+    width: 20vh;
+}
